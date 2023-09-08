@@ -15,7 +15,7 @@ O problema abordado envolve o processamento e a análise de dados de transaçõe
 
 ## Funcionamento 💻
 
-### Opção 1 - Contabilização de todas as transições 👩🏻‍💻
+### Opção 1 - Contabilização de todas as transações 👩🏻‍💻
 
 ```Bash
 # Clonar o repositório do projeto 
@@ -32,7 +32,7 @@ g++ main.cpp -o projeto
 ```
 > O arquivo _planilha.csv_ é o arquivo teste contendo transações. Pode ser alterado, desde que os campos sejam compatíveis com os atuais.
 
-### Opção 2 - Contabilização de uma transição específica 👨🏻‍💻
+### Opção 2 - Contabilização de uma transação específica 👨🏻‍💻
 
 ```Bash
 # Clonar o repositório do projeto 
