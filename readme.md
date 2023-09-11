@@ -1,6 +1,7 @@
 # Contabilizador Financeiro 💼
 > Autora: Luiza Kuze <br>
-> Projeto final de [PRG2](https://github.com/luizakuze/PRG2)
+> Data: 01/05/2023 <br>
+> Projeto final de [PRG2](https://github.com/luizakuze/PRG2) <br>
 
 ## Descrição 📌
 
