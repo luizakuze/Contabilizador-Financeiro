@@ -14,7 +14,6 @@ O problema abordado envolve o processamento e a análise de dados de transaçõe
 - [x] Ao receber o nome do arquivo como argumento principal, realizará a contabilização de todas as transações presentes no arquivo. 
 - [x] Se o usuário especificar um tipo de transação específico, o programa contabilizará apenas as transações correspondentes a esse tipo.
 - [x] Tratars o erros: Usuário informando uma transação inexistente e informar arquivo com formato inválido.
-> Dividir o arquivo _main.cpp_ em outros 2 arquivos com funções seria uma melhoria para organização do código! 
 
 ## Funcionamento 💻
 
